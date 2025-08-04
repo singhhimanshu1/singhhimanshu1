@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Himanshu+Singh+👨🏻‍💻;" />
 </h1>
 
-<h3 align="center">A Passionate Full Stack Developer & YouTuber From Pakistan</h3>
+<h3 align="center">Technology Analyst</h3>
 
 <br/>
 
